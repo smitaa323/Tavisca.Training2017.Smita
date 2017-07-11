@@ -1,0 +1,11 @@
+F:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+F:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+F:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+F:\Training.Tavisca2017.Handson\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+F:\Training.Tavisca2017.Handson\Stack_Implementation\obj\Debug\Stack_Implementation.pdb
+E:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+E:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+E:\Training.Tavisca2017.Handson\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+E:\Training.Tavisca2017.Handson\Stack_Implementation\obj\Debug\Stack_Implementation.csprojResolveAssemblyReference.cache
+E:\Training.Tavisca2017.Handson\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+E:\Training.Tavisca2017.Handson\Stack_Implementation\obj\Debug\Stack_Implementation.pdb

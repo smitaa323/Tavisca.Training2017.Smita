@@ -1,0 +1,11 @@
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.exe.config
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.pdb
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Zeros_in_Factorial\obj\Debug\Zeros_in_Factorial.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Zeros_in_Factorial\obj\Debug\Zeros_in_Factorial.pdb
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.exe.config
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.exe
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\bin\Debug\Zeros_in_Factorial.pdb
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\obj\Debug\Zeros_in_Factorial.csprojResolveAssemblyReference.cache
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\obj\Debug\Zeros_in_Factorial.exe
+E:\Training.Tavisca2017.Handson\Zeros_in_Factorial\obj\Debug\Zeros_in_Factorial.pdb

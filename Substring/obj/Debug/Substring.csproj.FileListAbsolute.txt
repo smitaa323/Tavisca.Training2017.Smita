@@ -1,0 +1,11 @@
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.exe.config
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.pdb
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Substring\obj\Debug\Substring.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\Substring\obj\Debug\Substring.pdb
+E:\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.exe.config
+E:\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.exe
+E:\Training.Tavisca2017.Handson\Substring\bin\Debug\Substring.pdb
+E:\Training.Tavisca2017.Handson\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+E:\Training.Tavisca2017.Handson\Substring\obj\Debug\Substring.exe
+E:\Training.Tavisca2017.Handson\Substring\obj\Debug\Substring.pdb

@@ -1,0 +1,11 @@
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.exe.config
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.pdb
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\queue_Implementation\obj\Debug\queue_Implementation.exe
+D:\Training.Tavisca2017.Handson\Training.Tavisca2017.Handson\queue_Implementation\obj\Debug\queue_Implementation.pdb
+E:\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.exe.config
+E:\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.exe
+E:\Training.Tavisca2017.Handson\queue_Implementation\bin\Debug\queue_Implementation.pdb
+E:\Training.Tavisca2017.Handson\queue_Implementation\obj\Debug\queue_Implementation.csprojResolveAssemblyReference.cache
+E:\Training.Tavisca2017.Handson\queue_Implementation\obj\Debug\queue_Implementation.exe
+E:\Training.Tavisca2017.Handson\queue_Implementation\obj\Debug\queue_Implementation.pdb
