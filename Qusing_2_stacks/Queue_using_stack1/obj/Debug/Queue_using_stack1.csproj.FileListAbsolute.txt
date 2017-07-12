@@ -1,0 +1,10 @@
+D:\Stack\Queue_using_stack1\bin\Debug\Queue_using_stack1.exe.config
+D:\Stack\Queue_using_stack1\bin\Debug\Queue_using_stack1.exe
+D:\Stack\Queue_using_stack1\bin\Debug\Queue_using_stack1.pdb
+D:\Stack\Queue_using_stack1\bin\Debug\Queue1.dll
+D:\Stack\Queue_using_stack1\bin\Debug\Stack.dll
+D:\Stack\Queue_using_stack1\bin\Debug\Queue1.pdb
+D:\Stack\Queue_using_stack1\bin\Debug\Stack.pdb
+D:\Stack\Queue_using_stack1\obj\Debug\Queue_using_stack1.csprojResolveAssemblyReference.cache
+D:\Stack\Queue_using_stack1\obj\Debug\Queue_using_stack1.exe
+D:\Stack\Queue_using_stack1\obj\Debug\Queue_using_stack1.pdb

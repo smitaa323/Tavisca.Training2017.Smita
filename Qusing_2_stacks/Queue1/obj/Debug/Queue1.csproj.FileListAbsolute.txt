@@ -1,0 +1,7 @@
+D:\Stack\Queue1\bin\Debug\Queue1.dll
+D:\Stack\Queue1\bin\Debug\Queue1.pdb
+D:\Stack\Queue1\bin\Debug\Stack.dll
+D:\Stack\Queue1\bin\Debug\Stack.pdb
+D:\Stack\Queue1\obj\Debug\Queue1.csprojResolveAssemblyReference.cache
+D:\Stack\Queue1\obj\Debug\Queue1.dll
+D:\Stack\Queue1\obj\Debug\Queue1.pdb
